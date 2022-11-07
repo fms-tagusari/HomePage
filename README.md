@@ -23,7 +23,7 @@
 * 森勢将雅，**田鎖佑弥**， ``音声分析合成の波形生成に用いる励起信号の違いが知覚に与える影響，'' 日本音響学会2021年春季研究発表会, pp. 875-876, Online, March 10-12, 2021. (発表日12日)
 
 ## Events
-* 高い音はどっち？～音の錯覚を体験してみよう～，日本科学未来館，September 4-5, 2021.[[Link]https://www.miraikan.jst.go.jp/events/202109042115.html]
+* 高い音はどっち？～音の錯覚を体験してみよう～，日本科学未来館，September 4-5, 2021.[[Link](https://www.miraikan.jst.go.jp/events/202109042115.html)]
 * 
 
 ## Articles   
