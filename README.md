@@ -14,6 +14,7 @@
 ## Academic Papers  
 
 ### 2022  
+* **田鎖佑弥**，森勢将雅， ``Comparison of evaluation between self and others in long-tone performance on brass instrument, ''（**執筆中**）
 * **田鎖佑弥**，森勢将雅， ``金管楽器のロングトーン演奏を対象とした自己評価と他者評価との比較，'' 日本音響学会2022年秋季研究発表会, pp. 1489-1490, Online, Sept 14-16, 2022. (発表日15日)
 * **田鎖佑弥**，森勢将雅， ``音楽経験の有無が音高錯覚現象の知覚に与える影響の比較ー子供を対象とした結果の解析ー，'' 情報処理学会音楽情報科学研究会, vol. 2022-MUS-134, no. 42, pp. 1-3, Online, June 17-18, 2022. (発表日18日) [[PDF](href="paper/IPSJ-MUS22134042.pdf")]
 * **田鎖佑弥**，森勢将雅， ``音高錯覚現象における大人と子供の比較，'' 日本音響学会2022年春季研究発表会, pp. 685-686, Online, March 9-11, 2022. (発表日10日)
@@ -26,7 +27,8 @@
 * 高い音はどっち？～音の錯覚を体験してみよう～，日本科学未来館，September 4-5, 2021.[[Link](https://www.miraikan.jst.go.jp/events/202109042115.html)]
 * 
 
-## Articles   
+## Works
+* 
 
 ## Skills
 ### Programming Languages
