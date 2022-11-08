@@ -29,7 +29,7 @@
 
 ## Events
 * 高い音はどっち？～音の錯覚を体験してみよう～，日本科学未来館，September 4-5, 2021.[[Link](https://www.miraikan.jst.go.jp/events/202109042115.html)]
-* コミックマーケット92, 96, 97（）
+* コミックマーケット92, 96, 97 (C-MAGE)
 
 ## Works
 * 
