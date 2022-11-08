@@ -5,7 +5,7 @@ description: This is a summary of the activities.
 # show_downloads: false
 
 # 写真のディレクトリは
-logo: /assets/icon.jpg
+logo: /assets/img/icon.jpg
 
 source: .
 layouts_dir: _layouts
