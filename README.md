@@ -26,7 +26,7 @@
 ## Products
 ### ゲーム
 * アントダイアリー[[動画](https://drive.google.com/file/d/1QgAyzwpH5sMWKsItf6ADsFZPbaPAenbL/view)]
-* あっ！void float[[動画]()]
+* あっ！void float[[動画（準備中…）]()]
 * メイ大メイ宮[[Twitter](https://twitter.com/CCC_sokon/status/1258705704468262912)]
 
 ## Events
