@@ -36,7 +36,7 @@
 * コミックマーケット97 [[Twitter](https://twitter.com/sokon_illust/status/1211161909728178176)]
 
 ## Works
-* 
+* かんたん年賀状素材集　2022年版，技術評論社[[Link](https://gihyo.jp/book/2021/978-4-297-12341-3)]
 
 ## Skills
 ### Programming Languages
