@@ -30,7 +30,7 @@
 * メイ大メイ宮[[Twitter](https://twitter.com/CCC_sokon/status/1258705704468262912)]
 
 ## Events
-* 高い音はどっち？～音の錯覚を体験してみよう～，日本科学未来館，September 4-5, 2021.[[Twitter](https://www.miraikan.jst.go.jp/events/202109042115.html)]
+* 高い音はどっち？～音の錯覚を体験してみよう～，日本科学未来館，September 4-5, 2021.[[公式サイト（閉鎖済）](https://www.miraikan.jst.go.jp/events/202109042115.html)]
 * コミックマーケット92[[Twitter](https://twitter.com/sokon_illust/status/1028299015530541056)]
 * コミックマーケット96[[Twitter](https://twitter.com/sokon_illust/status/1160333362252226560)]
 * コミックマーケット97 [[Twitter](https://twitter.com/sokon_illust/status/1211161909728178176)]
