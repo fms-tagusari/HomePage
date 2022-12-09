@@ -23,8 +23,11 @@
 * **田鎖佑弥**，森勢将雅， ``音声分析合成システムの無声音生成に用いる励起信号の違いが分析合成音の品質劣化に与える影響の調査，'' 日本音響学会2021年秋季研究発表会, pp. 1067-1068, Online, Sept. 7-9, 2021. (発表日7日)
 * 森勢将雅，**田鎖佑弥**， ``音声分析合成の波形生成に用いる励起信号の違いが知覚に与える影響，'' 日本音響学会2021年春季研究発表会, pp. 875-876, Online, March 10-12, 2021. (発表日12日)
 
+## Hobby
+ゲーム（プレイ・制作），イラスト制作，映画鑑賞，旅行，燻製
+
 ## Products
-### ゲーム
+### Games
 * アントダイアリー[[動画](https://drive.google.com/file/d/1QgAyzwpH5sMWKsItf6ADsFZPbaPAenbL/view)]
 * あっ！void float[[動画](https://drive.google.com/file/d/1hC6AODD4FYQfSEjU08eqGYN_xaxjlCjr/view?usp=sharing)]
 * メイ大メイ宮[[Twitter](https://twitter.com/CCC_sokon/status/1258705704468262912)]
