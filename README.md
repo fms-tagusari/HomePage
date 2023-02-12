@@ -32,6 +32,9 @@
 * あっ！void float[[動画](https://drive.google.com/file/d/1hC6AODD4FYQfSEjU08eqGYN_xaxjlCjr/view?usp=sharing)]
 * メイ大メイ宮[[Twitter](https://twitter.com/CCC_sokon/status/1258705704468262912)]
 
+### Game proposals
+* ケイショウモジ[[pdf](https://drive.google.com/file/d/1QJHgLTj2IyeDN1_KzviDxPj1vbOvvhj8/view?usp=sharing)]
+
 ## Events
 * 高い音はどっち？～音の錯覚を体験してみよう～，日本科学未来館，September 4-5, 2021.[[公式サイト（閉鎖済）](https://www.miraikan.jst.go.jp/events/202109042115.html)]
 * コミックマーケット92[[Twitter](https://twitter.com/sokon_illust/status/1028299015530541056)]
