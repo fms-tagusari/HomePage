@@ -33,8 +33,9 @@
 * メイ大メイ宮[[Twitter](https://twitter.com/CCC_sokon/status/1258705704468262912)]
 
 ### Game proposals
-* ケイショウモジ[[pdf](https://drive.google.com/file/d/1QJHgLTj2IyeDN1_KzviDxPj1vbOvvhj8/view?usp=sharing)]
+* ケイショウモジ[[pdf](https://drive.google.com/file/d/1nR5DL39Bokc1TPpMl6pIsXuBVQkHQ1D2/view?usp=sharing)]
 * 極・アクター[[pdf](https://drive.google.com/file/d/1iZiMRZM_cjivw-Qv_EyfJKnrChNTgYmp/view?usp=share_link)]
+* カーリング・オセロ[[pdf](https://drive.google.com/file/d/1_PWeX8qVjOidMl55KmhZhzifTPBuBDg_/view?usp=sharing)]
 
 ## Events
 * 高い音はどっち？～音の錯覚を体験してみよう～，日本科学未来館，September 4-5, 2021.[[公式サイト（閉鎖済）](https://www.miraikan.jst.go.jp/events/202109042115.html)]
